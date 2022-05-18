@@ -8,9 +8,11 @@ ImageProcessing 影像處理平台開發 V2.0
 
 ◼ 程式參考
 
-	12th 鐵人賽 – 【錢不夠買ps的我，只好用OpenCV來修圖了!】
-	仿射轉換
-	透視投影轉換
+    ▻[仿射轉換](https://blog.csdn.net/liuweiyuxiang/article/details/82799999)
+  
+    ▻[透視投影轉換](https://twgreatdaily.com/Y293SW4BMH2_cNUgG4MZ.html)
+  
+    ▻[平移，縮放，旋轉，翻轉](https://blog.csdn.net/zh_jessica/article/details/77946346)
 
 基本功能 :
 
