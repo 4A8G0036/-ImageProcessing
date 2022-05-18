@@ -1,12 +1,12 @@
 ImageProcessing 影像處理平台開發 V2.0
 
-程式語言 Python
+◼ 程式語言 Python
 
-套件 Python3.10
+◼ 套件 Python3.10
 
-開發工具 Python
+◼ 開發工具 Python
 
-程式參考
+◼ 程式參考
 
 	12th 鐵人賽 – 【錢不夠買ps的我，只好用OpenCV來修圖了!】
 	仿射轉換
