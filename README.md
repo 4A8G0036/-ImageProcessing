@@ -42,5 +42,7 @@
   	影像雜訊處理
 
 
-程式界面:![unknown](https://user-images.githubusercontent.com/105743397/168988021-9fbfdcee-5eea-46a1-9cb0-693a73e737dd.png)
+程式界面:
+
+![unknown](https://user-images.githubusercontent.com/105743397/168988021-9fbfdcee-5eea-46a1-9cb0-693a73e737dd.png)
 
