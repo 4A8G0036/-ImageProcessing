@@ -1,4 +1,4 @@
-ImageProcessing 影像處理平台開發 V2.0
+# ImageProcessing 影像處理平台開發 V2.0
 
 
 ◼ 程式語言 Python
@@ -18,21 +18,29 @@ ImageProcessing 影像處理平台開發 V2.0
 基本功能 :
 
 1.選單
-  	載入影像 
-  	儲存影像
-  	關閉平台
+
+    載入影像 
+    儲存影像
+    關閉平台
 2.色彩選項 (轉換色彩通道)
- 	 灰階影像
+
+    灰階影像
   	轉換原始影像
- 	 灰階影像均衡化
+    灰階影像均衡化
   	二值化影像
   	HSV影像
 3.小工具
+
   	選取ROI
   	仿射轉換
   	透視投影轉換
   	顯示影像直方圖
 4.影像處理
+
   	影像模糊化
   	影像邊緣擷取
   	影像雜訊處理
+
+
+程式界面:![unknown](https://user-images.githubusercontent.com/105743397/168988021-9fbfdcee-5eea-46a1-9cb0-693a73e737dd.png)
+
