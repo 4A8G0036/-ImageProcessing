@@ -9,11 +9,10 @@
 
 ►程式參考
 
-  ▻[仿射轉換](https://blog.csdn.net/zh_jessica/article/details/77946346)
+  ▻[簡易輪廓](https://blog.csdn.net/Syuhen/article/details/108585467)
   
-  ▻[透視投影轉換](https://twgreatdaily.com/Y293SW4BMH2_cNUgG4MZ.html)
+  ▻[哈里斯邊緣檢測](https://www.osgeo.cn/opencv-python/ch09-feature2d/sec02-features-harris.html)
   
-  ▻[平移，縮放，旋轉，翻轉](https://blog.csdn.net/zh_jessica/article/details/77946346)
 
 基本功能 :
 
